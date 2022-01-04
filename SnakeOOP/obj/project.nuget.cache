@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFx2ql2rASIQiuKyJ/j0MhgVrGvXyjVzs7NeJAHF8t6a3NsXJc49Mq7WViKwJ4kiILPH3YiLxmoysYQ/LJdXRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\LogitPe21\\SnakeOOP\\SnakeOOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\documentformat.openxml\\2.15.0\\documentformat.openxml.2.15.0.nupkg.sha512",
+    "C:\\Users\\opilane\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
